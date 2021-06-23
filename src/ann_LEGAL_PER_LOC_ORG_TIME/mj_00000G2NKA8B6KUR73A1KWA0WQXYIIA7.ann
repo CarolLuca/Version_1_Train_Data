@@ -1,0 +1,59 @@
+T1	LEGAL 2 35	ORDIN nr. 10 din 8 noiembrie 2019
+T3	LOC 103 110	România
+T4	ORG 201 218	MONITORUL OFICIAL
+T5	TIME 231 248	20 noiembrie 2019
+T6	LEGAL 321 368	Ordonanța de urgență a Guvernului nr. 99 / 2006
+T9	LEGAL 468 488	Legea nr. 227 / 2007
+T11	LEGAL 609 662	Regulamentul Băncii Naționale a României nr. 5 / 2013
+T15	LEGAL 776 864	Recomandarea Comitetului Național pentru Supravegherea Macroprudențială nr. R / 4 / 2019
+T18	LOC 947 954	România
+T19	LEGAL 994 1014	Legea nr. 312 / 2004
+T21	ORG 1032 1059	Băncii Naționale a României
+T23	LEGAL 1098 1145	Ordonanța de urgență a Guvernului nr. 99 / 2006
+T26	LEGAL 1245 1265	Legea nr. 227 / 2007
+T28	ORG 1312 1338	Banca Națională a României
+T30	LOC 1415 1422	România
+T31	TIME 1563 1580	31 decembrie 2018
+T32	ORG 1600 1623	Banca Comercială Română
+T33	ORG 1632 1647	Raiffeisen Bank
+T34	ORG 1656 1664	OTP Bank
+T35	ORG 1673 1691	Banca Transilvania
+T36	ORG 1700 1708	CEC Bank
+T37	ORG 1717 1731	UniCredit Bank
+T38	ORG 1740 1769	BRD - Groupe Société Générale
+T39	ORG 1778 1796	Alpha Bank România
+T42	ORG 1805 1817	Garanti Bank
+T43	TIME 1853 1868	1 ianuarie 2020
+T44	LOC 1917 1924	România
+T45	LEGAL 2141 2194	Regulamentul Băncii Naționale a României nr. 5 / 2013
+T49	LEGAL 2424 2456	Regulamentul (UE) nr. 575 / 2013
+T52	TIME 2496 2509	26 iunie 2013
+T53	ORG 2460 2473	Parlamentului
+T54	ORG 2480 2491	Consiliului
+T55	LEGAL 2614 2648	Regulamentului (UE) nr. 648 / 2012
+T58	ORG 2660 2683	Banca Comercială Română
+T59	ORG 2692 2707	Raiffeisen Bank
+T60	ORG 2716 2724	OTP Bank
+T61	ORG 2735 2753	Banca Transilvania
+T63	LEGAL 2885 2917	Regulamentul (UE) nr. 575 / 2013
+T66	ORG 2926 2940	UniCredit Bank
+T67	ORG 2951 2980	BRD - Groupe Société Générale
+T68	LEGAL 3112 3144	Regulamentul (UE) nr. 575 / 2013
+T71	TIME 3179 3194	1 ianuarie 2020
+T72	LOC 3243 3250	România
+T73	LEGAL 3479 3511	Regulamentul (UE) nr. 575 / 2013
+T76	ORG 3533 3541	CEC Bank
+T77	LEGAL 3674 3706	Regulamentul (UE) nr. 575 / 2013
+T80	ORG 3715 3733	Alpha Bank România
+T82	ORG 3744 3756	Garanti Bank
+T86	LEGAL 3888 3920	Regulamentul (UE) nr. 575 / 2013
+T87	TIME 3987 4002	1 ianuarie 2020
+T88	LEGAL 4027 4075	Ordinul Băncii Naționale a României nr. 9 / 2018
+T92	LOC 4142 4149	România
+T93	ORG 4233 4262	Monitorul Oficial al României
+T95	TIME 4288 4305	28 decembrie 2018
+T96	ORG 4353 4382	Monitorul Oficial al României
+T98	ORG 4408 4467	Consiliului de administrație al Băncii Naționale a României
+T101	PER 4470 4495	Mugur Constantin Isărescu
+T102	LOC 4497 4506	București
+T103	TIME 4508 4524	8 noiembrie 2019

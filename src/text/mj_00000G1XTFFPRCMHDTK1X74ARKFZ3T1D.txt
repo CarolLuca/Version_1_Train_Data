@@ -1,0 +1,29 @@
+
+ORDIN nr. 282 din 23 iulie 2019
+pentru modificarea anexei la Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 32 / 2018 privind aprobarea Metodologiei de stabilire a prețului de referință pentru gazele naturale extrase în România
+Publicat în 
+			
+MONITORUL OFICIAL nr. 638 din 1 august 2019
+
+În baza prevederilor art. 124 alin. (1^1)-(1^3) din Legea energiei electrice și a gazelor naturale nr. 123 / 2012, cu modificările și completările ulterioare,
+având în vedere Referatul Direcției generale inspecție și supraveghere teritorială a activităților miniere și a operațiunilor petroliere nr. 400.425 din 28.06.2019,
+în temeiul art. 4 alin. (4) din Hotărârea Guvernului nr. 1.419 / 2009 privind organizarea și funcționarea Agenției Naționale pentru Resurse Minerale, cu modificările ulterioare,
+președintele Agenției Naționale pentru Resurse Minerale emite următorul ordin:
+Articolul I
+
+Anexa la Ordinul președintelui Agenției Naționale pentru Resurse Minerale nr. 32 / 2018 privind aprobarea Metodologiei de stabilire a prețului de referință pentru gazele naturale extrase în România, publicat în Monitorul Oficial al României, Partea I, nr. 132 din 12 februarie 2018, se modifică și se înlocuiește cu anexa care face parte integrantă din prezentul ordin.
+Articolul II
+
+Prezentul ordin intră în vigoare la data publicării lui în Monitorul Oficial al României, Partea I.
+Președintele Agenției Naționale pentru Resurse Minerale,
+Gigi Dragomir
+București, 23 iulie 2019.
+Nr. 282.
+ANEXĂ 
+
+(Anexa la Ordinul nr. 32 / 2018)
+METODOLOGIEde stabilire a prețului de referință pentru gazele naturale extrase în România
+Articolul 1Prețul de referință pentru gazele naturale extrase în România, la punctele de măsurare a producției de gaze, care nu intră sub incidența art. 124 alin. (1^1)-(1^3) din Legea energiei electrice și a gazelor naturale nr. 123 / 2012, cu modificările și completările ulterioare, se stabilește lunar și se face conform următoarei formule de calcul:PR_l+1, a = PMGN_l, a • PCS_m, a–1 • RS_l, a , în care:reprezintă prețul mediu al tranzacțiilor efectuate în luna anterioară perioadei pentru care se calculează prețul de referință, la hub-ul respectiv, și este exprimat în € / MWh, în care:– IB_i, l, a este indicele bursier mediu la tranzacționarea gazului natural afișat pe site-ul hub-ului ales de Agenția Națională pentru Resurse Minerale, PEGAS CEGH Day Ahead Market Single Day Select, VWAP / CEGHIX Central European Gas Hub AG (CEGH), pentru luna anterioară perioadei pentru care se calculează prețul de referință; în € / MWh; ... – m - numărul de zile de tranzacționare din lună, pentru luna anterioară perioadei pentru care se calculează prețul de referință; ... – V^MWh_i, l, a reprezintă volumul de gaz tranzacționat exprimat energetic la hub-ul de gaze naturale ales ca referință, Central European Gas Hub AG (CEGH); în MWh; ... • RS_l, a este rata medie de schimb valutar pentru lei în raport cu euro, comunicată de Banca Națională a României, pentru luna anterioară perioadei pentru care se calculează prețul de referință; în lei / €;• PCS_m, a–1 reprezintă puterea calorifică superioară medie anuală a gazelor naturale în România, în anul anterior celui în care se fac evaluările; în kWh / Smc;• PR_l+1, a - prețul de referință lunar al gazelor naturale în luna pentru care se fac evaluările; se exprimă în lei / 1.000 Smc.
+Articolul 2Pentru cantitățile de gaze naturale extrase în România rezultate din activitatea de producție internă curentă și vândute la prețul de 68 lei / MWh către furnizorii clienților casnici și ai producătorilor de energie termică, numai pentru cantitatea de gaze naturale utilizată la producerea de energie termică în centralele de cogenerare și în centralele termice destinată consumului populației, conform art. 124 alin. (1^1)-(1^3) din Legea energiei electrice și a gazelor naturale nr. 123 / 2012, cu modificările și completările ulterioare, pentru perioada de aplicabilitate a acestei prevederi legale, prețul de referință va fi determinat lunar astfel:Preț referință (lei / 1.000 Stmc) = 68 (lei / MWh) x PCS, unde PCS = puterea calorifică superioară medie, transmisă anual de către Societatea Națională de Transport Gaze Naturale "Transgaz" - S.A. Mediaș.
+Articolul 3Producătorii de gaze naturale vor evidenția în documentațiile aferente calculului redevențelor petroliere cantitățile de gaze naturale valorificate la prețul reglementat prin Ordonanța de urgență a Guvernului nr. 114 / 2018 privind instituirea unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene, cu modificările și completările ulterioare, de 68 lei / MWh, separat de cantitățile de gaze naturale care se valorifică pe piața liberă, repartizate în mod proporțional pe zăcăminte comerciale, în funcție de valoarea producției extrase din acestea.
+-----

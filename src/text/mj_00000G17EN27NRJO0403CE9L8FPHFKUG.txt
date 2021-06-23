@@ -1,0 +1,37 @@
+
+ORDIN nr. 202 din 14 decembrie 2018
+pentru aprobarea tarifului reglementat practicat de operatorul pieței de energie electrică
+Publicat în 
+			
+MONITORUL OFICIAL nr. 1084 din 20 decembrie 2018
+
+Având în vedere prevederile art. 75 alin. (1) lit. g), art. 76 alin. (1) și art. 79 alin. (3) din Legea energiei electrice și a gazelor naturale nr. 123 / 2012, cu modificările și completările ulterioare, și ale Metodologiei de stabilire a tarifului reglementat practicat de operatorul pieței de energie electrică, aprobată prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 67 / 2013, cu modificările și completările ulterioare,
+în temeiul art. 5 alin. (1) lit. b) și alin. (5) din Ordonanța de urgență a Guvernului nr. 33 / 2007 privind organizarea și funcționarea Autorității Naționale de Reglementare în Domeniul Energiei, aprobată cu modificări și completări prin Legea nr. 160 / 2012, cu modificările și completările ulterioare,
+președintele Autorității Naționale de Reglementare în Domeniul Energiei emite prezentul ordin.
+Articolul 1
+
+Se aprobă tariful reglementat practicat de operatorul pieței de energie electrică, prevăzut în anexa care face parte integrantă din prezentul ordin.
+Articolul 2
+
+Operatorii economici din sectorul energiei electrice duc la îndeplinire prevederile prezentului ordin, iar entitățile organizatorice din cadrul Autorității Naționale de Reglementare în Domeniul Energiei urmăresc respectarea prevederilor prezentului ordin.
+Articolul 3
+
+La data intrării în vigoare a prezentului ordin se abrogă Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 125 / 2017 pentru aprobarea tarifului reglementat practicat de operatorul pieței de energie electrică, publicat în Monitorul Oficial al României, Partea I, nr. 1.016 din 21 decembrie 2017.
+Articolul 4
+
+Prezentul ordin se publică în Monitorul Oficial al României, Partea I, și intră în vigoare la data de 1 ianuarie 2019.
+Președintele Autorității Naționale de Reglementare în Domeniul Energiei,
+Dumitru Chiriță
+București, 14 decembrie 2018.
+Nr. 202.
+ANEXĂ
+
+Tariful reglementat practicat de operatorul pieței de energie electrică
+Denumire componentăTarifUMComponenta de înscriere la piețele centralizate, T_înscr440 lei / participantComponenta de administrare a piețelor centralizate, T_admin, pentru participanți, cu excepția producătorilor cu Pi ≤ 1 MW12.600 lei / participant / an / piațăComponenta de administrare a piețelor centralizate, T_admin, pentru producători cu 100 kW < Pi ≤ 1 MW1.000 lei / participant / an / piațăComponenta de administrare a piețelor centralizate, T_admin, pentru producători cu Pi ≤ 100 kW 100 lei / participant / an / piațăComponenta de realizare a tranzacțiilor pe piețele centralizate în care operatorul pieței de energie electrică este contraparte, T_tranz contraparte0,16 lei / unitate tranzacționatăComponenta de realizare a tranzacțiilor pe piețele centralizate de energie electrică în care operatorul pieței de energie electrică nu este contraparte, T_tranz bilateral EE0,15 lei / unitate tranzacționatăComponenta de realizare a tranzacțiilor pe piețele centralizate de certificate verzi în care operatorul pieței de energie electrică nu este contraparte T_tranz bilateral CV0,08 lei / unitate tranzacționată
+NOTE:1. Componenta de administrare a piețelor centralizate remunerează inclusiv activitatea de raportare de date în conformitate cu prevederile Regulamentului de punere în aplicare (UE) nr. 1.348 / 2014 al Comisiei din 17 decembrie 2014 privind raportarea de date, pentru punerea în aplicare a articolului 8 alineatele (2) și (6) din Regulamentul (UE) nr. 1.227 / 2011 al Parlamentului European și al Consiliului privind integritatea și transparența pieței angro de energie. ... 2. Tariful nu conține taxa pe valoarea adăugată (TVA). ... 
+
+			(la 01-07-2019, 
+			ANEXA a fost modificată de Articolul I din ORDINUL nr. 153 din 24 iunie 2019, publicat în MONITORUL OFICIAL nr. 522 din 26 iunie 2019
+			)
+	
+-----
