@@ -5,21 +5,21 @@ import java.util.Scanner;
 
 import static java.util.Collections.sort;
 
+// to obtain the list for all three sub-datasets, 
+// just replace the actual name to the desired one
+// Ctrl-R: dev with train
+
 public class Program {
     public static void main(String[] args) throws IOException {
         PrintWriter fout = new PrintWriter("src/files_overlap.txt");
         System.out.print("TRAIN_DATA = [\n");
-        File filenames = new File("src/filenames.txt");
-        File filenamesT = new File("src/filenamesT.txt");
-        Scanner in_fileA = new Scanner(filenames);
-        Scanner in_fileT = new Scanner(filenamesT);
-        in_fileA.nextLine();
-        in_fileT.nextLine();
-        for (int no = 0; no < 370; no++) {
-            String ann_fileS = in_fileA.nextLine();
-            String txt_fileS = in_fileT.nextLine();
-            File ann_file = new File("src/ann_LEGAL_PER_LOC_ORG_TIME/" + ann_fileS);
-            File txt_file = new File("src/text/" + txt_fileS);
+        File filenames = new File("src/train/filenames_train.txt");
+        Scanner in_file = new Scanner(filenames);
+        while(in_file.hasNextLine()) {
+            String ann_fileS = in_file.nextLine();
+            String txt_fileS = in_file.nextLine();
+            File ann_file = new File("src/train/" + ann_fileS);
+            File txt_file = new File("src/train/" + txt_fileS);
             Scanner inA = new Scanner(ann_file);
             Scanner inT = new Scanner(txt_file);
             List<Trois> entp = new ArrayList<>();
@@ -62,7 +62,7 @@ public class Program {
                     return ;
                 }*/
             }
-            if(ent.size()!=entp.size()){
+            if (ent.size() != entp.size()) {
                 fout.println(txt_fileS);
                 // return ;
             }
@@ -70,14 +70,15 @@ public class Program {
             line = line.replace("\"", " ");
             // String visited = line;
             boolean same = false;
+            int last = 0;
             System.out.print("(\"" + line + "\",[");
             for (int i = 0; i < ent.size(); ++i) {
                 String caut = ent.get(i).getEntity();
                 int n = caut.length();
                 boolean foundE = false;
                 while (!foundE) {
-                    for (int j = 0; j + n <= line.length(); ++j) {
-                        if (line.substring(j, j + n).equals(caut)){ // && visited.charAt(j)!='w') {
+                    for (int j = last; j + n <= line.length(); ++j) {
+                        if (line.substring(j, j + n).equals(caut)) { // && visited.charAt(j)!='w') {
                             foundE = true;
                             if (same) {
                                 System.out.print(",");
@@ -87,14 +88,18 @@ public class Program {
                             builderV.replace(j,j+1,"w");
                             visited = builderV.toString();
                             */
+                            last = j + n;
                             same = true;
                             System.out.print("(" + j + "," + (j + n) + ",'" + ent.get(i).getType() + "')");
+                            break;
                         }
                     }
                     if (!foundE) {
                         System.out.print("]),\n");
+                        //System.out.println(ann_fileS+" "+caut);
                         line = inT.nextLine();
                         line = line.replace("\"", " ");
+                        last = 0;
                         // visited = line;
                         System.out.print("(\"" + line + "\",[");
                         same = false;
@@ -102,6 +107,7 @@ public class Program {
                 }
             }
             System.out.print("]),\n");
+            last = 0;
             while (inT.hasNextLine()) {
                 line = inT.nextLine();
                 line = line.replace("\"", " ");
